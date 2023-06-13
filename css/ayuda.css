@@ -1,0 +1,29 @@
+* {
+    font-family: 'Sigmar', cursive;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+body {
+    background-color: black;
+    color: white;
+}
+.botones {
+    margin-top: 50px;
+}
+.btn-1 {
+    display: inline-block;
+    padding: 15px 35px;
+    border: 2px solid #db241b;
+    color: white;
+    font-weight: 800;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-right: 20px;
+    border-radius: 50px;
+}
+.btn-1:hover {
+    background-color: #db241b;
+}
